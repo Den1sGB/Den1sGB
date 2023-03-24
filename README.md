@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Den1sGB&show_icons=true&theme=radical)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Den1sGB&layout=default)](https://github.com/Den1sGB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Den1sGB&layout=compact)](https://github.com/Den1sGB/github-readme-stats)
 <br>
 
 <div style="display: inline_block"><br>
