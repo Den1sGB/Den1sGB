@@ -1,5 +1,10 @@
 ## Olá eu sou o Den1sGB
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Den1sGB&show_icons=true&theme=radical)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Den1sGB&layout=default)](https://github.com/Den1sGB/github-readme-stats)
+<br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Denis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Denis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
