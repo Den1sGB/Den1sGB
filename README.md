@@ -20,10 +20,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,git,github,aws" />
 </p>
 
-
-### 📊 Estatísticas do GitHub
-
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
