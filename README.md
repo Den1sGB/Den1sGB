@@ -23,13 +23,12 @@
 
 ### 📊 Estatísticas do GitHub
 
+
+### 📊 Estatísticas do GitHub
+
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Den1sGB&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Den1sGB&layout=compact&theme=tokyonight&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Den1sGB&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
